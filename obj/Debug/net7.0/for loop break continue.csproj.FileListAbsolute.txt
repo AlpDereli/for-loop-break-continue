@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\patika\for loop break continue\bin\Debug\net7.0\for loop break continue.exe
+C:\Users\HP\Desktop\patika\for loop break continue\bin\Debug\net7.0\for loop break continue.deps.json
+C:\Users\HP\Desktop\patika\for loop break continue\bin\Debug\net7.0\for loop break continue.runtimeconfig.json
+C:\Users\HP\Desktop\patika\for loop break continue\bin\Debug\net7.0\for loop break continue.dll
+C:\Users\HP\Desktop\patika\for loop break continue\bin\Debug\net7.0\for loop break continue.pdb
+C:\Users\HP\Desktop\patika\for loop break continue\obj\Debug\net7.0\for loop break continue.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\patika\for loop break continue\obj\Debug\net7.0\for loop break continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\patika\for loop break continue\obj\Debug\net7.0\for loop break continue.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\patika\for loop break continue\obj\Debug\net7.0\for loop break continue.AssemblyInfo.cs
+C:\Users\HP\Desktop\patika\for loop break continue\obj\Debug\net7.0\for loop break continue.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\patika\for loop break continue\obj\Debug\net7.0\for loop break continue.dll
+C:\Users\HP\Desktop\patika\for loop break continue\obj\Debug\net7.0\refint\for loop break continue.dll
+C:\Users\HP\Desktop\patika\for loop break continue\obj\Debug\net7.0\for loop break continue.pdb
+C:\Users\HP\Desktop\patika\for loop break continue\obj\Debug\net7.0\for loop break continue.genruntimeconfig.cache
+C:\Users\HP\Desktop\patika\for loop break continue\obj\Debug\net7.0\ref\for loop break continue.dll
